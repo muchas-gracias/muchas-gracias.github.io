@@ -3,15 +3,6 @@ title: "MUCHAS-GRACIAS"
 permalink: /
 layout: default
 ---
+# MUCHAS-GRACIAS PAGE
 
-<link rel="stylesheet" href="static/main.css">
-
-<div style="text-align: center;">
-<p style="color:bLACK; font-size: 40px;">MUCHAS-GRACIAS PAGE.</p>
-</div>
-
-<p class="custom-text; font-size: 40px">MUCHAS-GRACIAS PAGE.</p>
-
-
-
-TODAY WE
+This is a sample website page to display some  html, css, and markdown techniques that can be used to generate this site.

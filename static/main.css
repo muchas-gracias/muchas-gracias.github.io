@@ -3,8 +3,19 @@
     src: url('static/Tambarto-Regular.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'customfont1';
+    src: url('static/Nolly.ttf') format('truetype');
+}
+
 .custom-font {
     font-family: 'customfont', sans-serif;
+    color: black;
+    font-size: 40px;
+}
+
+.custom-font1 {
+    font-family: 'customfont1', sans-serif;
     color: black;
     font-size: 40px;
 }

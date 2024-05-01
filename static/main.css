@@ -8,7 +8,6 @@ body {
     background-color: #556b2f;
 }
 
-.custom-text {
-    color: blue;
-    font-family: 'customfont';
+h1.custom-font {
+    font-family: 'customfont', sans-serif;
 }

@@ -12,7 +12,7 @@ layout: default
 
 <body>
     <div style="text-align: center;">
-        <h1 class="custom-font">MUCHAS-GRACIAS PAGE.</h1>
+        <h1 class="customfont1">MUCHAS-GRACIAS PAGE.</h1>
     </div>
 </body>
 

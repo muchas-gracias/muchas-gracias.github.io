@@ -8,6 +8,10 @@
     src: url('static/Nolly.ttf') format('truetype');
 }
 
+body {
+    background-color: gray; /* Gray background */
+}
+
 .custom-font {
     font-family: 'customfont', sans-serif;
     color: black;

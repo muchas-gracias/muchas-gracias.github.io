@@ -10,15 +10,10 @@ layout: default
     <title>MUCHAS-GRACIAS</title>
 </head>
 
-<body style="font-family: 'customfont'">
+<body>
+    <div style="text-align: center;">
+        <h1 class="custom-font">MUCHAS-GRACIAS PAGE.</h1>
+    </div>
+</body>
 
 
-<div style="text-align: center;">
-<p style="color:black; font-size: 40px;">MUCHAS-GRACIAS PAGE.</p>
-</div>
-
-<p class="custom-text; font-size: 50px">MUCHAS-GRACIAS PAGE.</p>
-
-
-
-TODAY WE

@@ -1,13 +1,10 @@
-
 @font-face {
     font-family: 'customfont';
-    src: url('Tambarto-Regular.ttf') format('truetype');
+    src: url('static/Tambarto-Regular.ttf') format('truetype');
 }
 
-body {
-    background-color: #556b2f;
-}
-
-h1.custom-font {
+.custom-font {
     font-family: 'customfont', sans-serif;
+    color: black;
+    font-size: 40px;
 }

@@ -1,4 +1,8 @@
 
+@font-face {
+    font-family: 'customfont';
+    src: url('Tambarto-Regular.ttf') format('truetype');
+}
 
 body {
     background-color: #556b2f;
@@ -6,4 +10,5 @@ body {
 
 .custom-text {
     color: blue;
+    font-family: 'customfont';
 }
